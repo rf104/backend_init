@@ -1,0 +1,11 @@
+{
+  "name": "src",
+  "module": "nodemailer.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
